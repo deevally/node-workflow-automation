@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "packages/credentials/**/*", "packages/nodes/**/*"
+  ],
+  "version": "0.0.0"
+}
